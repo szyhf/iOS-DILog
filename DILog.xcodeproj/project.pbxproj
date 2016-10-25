@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		0CC8F9331DBF1B7A00EB94CB /* DILog.h in Headers */ = {isa = PBXBuildFile; fileRef = 0CC8F9311DBF1B7A00EB94CB /* DILog.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0CC8F93B1DBF1C5D00EB94CB /* DILog.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 0CC8F93A1DBF1C5D00EB94CB /* DILog.podspec */; };
 		0CC8F93F1DBF20B400EB94CB /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 0CC8F93E1DBF20B400EB94CB /* .gitignore */; };
 /* End PBXBuildFile section */
 
@@ -17,7 +16,6 @@
 		0CC8F9311DBF1B7A00EB94CB /* DILog.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DILog.h; sourceTree = "<group>"; };
 		0CC8F9321DBF1B7A00EB94CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0CC8F9391DBF1BF600EB94CB /* XCodeColors.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XCodeColors.h; sourceTree = "<group>"; };
-		0CC8F93A1DBF1C5D00EB94CB /* DILog.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; fileEncoding = 4; name = DILog.podspec; path = DILog/DILog.podspec; sourceTree = "<group>"; };
 		0CC8F93E1DBF20B400EB94CB /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -36,7 +34,6 @@
 			isa = PBXGroup;
 			children = (
 				0CC8F93E1DBF20B400EB94CB /* .gitignore */,
-				0CC8F93A1DBF1C5D00EB94CB /* DILog.podspec */,
 				0CC8F9301DBF1B7A00EB94CB /* DILog */,
 				0CC8F92F1DBF1B7A00EB94CB /* Products */,
 			);
@@ -131,7 +128,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0CC8F93F1DBF20B400EB94CB /* .gitignore in Resources */,
-				0CC8F93B1DBF1C5D00EB94CB /* DILog.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
