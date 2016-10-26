@@ -18,7 +18,7 @@
 		0CC8F9321DBF1B7A00EB94CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0CC8F9391DBF1BF600EB94CB /* XCodeColors.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XCodeColors.h; sourceTree = "<group>"; };
 		0CC8F93E1DBF20B400EB94CB /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
-		0CC8F9441DBF23D400EB94CB /* DILog.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DILog.podspec; sourceTree = "<group>"; };
+		0CC8F9441DBF23D400EB94CB /* DILog.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DILog.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -299,6 +299,7 @@
 				0CC8F9381DBF1B7A00EB94CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

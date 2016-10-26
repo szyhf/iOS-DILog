@@ -80,7 +80,7 @@ s.platform     = :ios, "7.0"
 #  Supports git, hg, bzr, svn and HTTP.
 #
 
-s.source       = { :git => “ssh://git@120.24.82.90:9145/ios/DILog”, :tag => "#{s.version}" }
+s.source       = { :git => "ssh://git@120.24.82.90:9145/ios/DILog", :tag => "#{s.version}" }
 
 
 # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
